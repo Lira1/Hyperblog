@@ -1,1 +1,2 @@
-Prueba 1 para Git
+Prueba 1 para Git.
+Segunda prueba pero del mismo archivo.
